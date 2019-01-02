@@ -12,5 +12,5 @@ Pod::Spec.new do |s|
   s.prefix_header_file = 'Graver.pch'
   s.requires_arc = true
 
-  s.dependency 'SDWebImage', '3.7.6'
+  s.dependency 'SDWebImage'
 end
